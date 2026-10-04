@@ -39,7 +39,6 @@ apis:
   - name: SmartAPI
     description: "Gain access to set of <SmartAPI> and create end-to-end broking services"
     humanURL: https://smartapi.angelbroking.com/
-    baseURL: https://smartapi.angelbroking.com/
     tags:
       - Finance
     properties:
